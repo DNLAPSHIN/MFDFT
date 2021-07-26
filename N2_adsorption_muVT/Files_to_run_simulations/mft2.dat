@@ -1,0 +1,6 @@
+3.0, 1.0                      y,tstar
+3110 36, 3090 29440 mx,mz,l,psite
+2                             ides
+1001, -8.0, 0.005,            ncp,cp0,dcp
+0.00001                       rhog
+10000000, 1.0e-12             maxit,error
